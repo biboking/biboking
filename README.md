@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My personal repository
+<!--My personal repository, add a summry with project details/links here-->
 
 
 ### Languages
