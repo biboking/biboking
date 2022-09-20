@@ -28,7 +28,9 @@ My personal repository
 <img src="https://img.shields.io/badge/MySQL-2E86C1?style=for-the-badge&logo=mysql&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/PostgreSQL-2471A3?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/MongoDB-1B4F72?style=for-the-badge&logo=mongodb&logoColor=white" style="vertical-align:top; margin:3px">
 ### Analytics
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="vertical-align:top; margin:3px">
+
 ### Cloud
  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="vertical-align:top; margin:3px">
+
 ### Terminal
 <img src="https://img.shields.io/badge/GIT-7D3C98?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:1px">
